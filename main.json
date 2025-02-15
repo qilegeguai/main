@@ -6,7 +6,7 @@
     {
       "name": "Govin",
       "type": 0,
-      "url": "https://010.1000s.us.kg/",
+      "url": "https://010.1000s.us.kg",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
