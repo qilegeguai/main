@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_20250218.tms;md5;20da2594a2d0afdd096e175d9159b3a2",
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
-  "warningText": "请勿公开传播",
+  "warningText": "夜泊金沙独家定制",
   "lives": [
     {
       "name": "夜泊金沙专线",
@@ -36,14 +36,7 @@
         "sourceVersion": "更新日期–20250218"
       }
     },
-    {
-      "key": "⚙︎ 配置 | JAR",
-      "name": "⚙︎ 配置 | JAR",
-      "type": 3,
-      "api": "csp_Config",
-      "ext": {
-        "bili_cookie": "http://111.230.103.97:666/vip/cookie"
-      },
+    
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -59,15 +52,7 @@
       "filterable": 1,
       "ext": {}
     },
-    {
-      "key": "📺 电视直播 | JAR",
-      "name": "📺 电视直播 | JAR",
-      "type": 3,
-      "api": "csp_Live2Vod",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/remote_live.json"
-    },
+    
     {
       "key": "📣 低端直连 | JAR",
       "name": "📣 低端直连 | JAR",
@@ -953,22 +938,7 @@
       "playerType": "1",
       "searchable": 0
     },
-    {
-      "key": "push_agent",
-      "name": "✈ 推送 | JAR",
-      "type": 3,
-      "api": "csp_PushPlus",
-      "playerType": "1",
-      "searchable": 0
-    },
-    {
-      "key": "公众号: 码上瞧瞧",
-      "name": "公众号: 码上瞧瞧",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
