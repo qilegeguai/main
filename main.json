@@ -995,6 +995,199 @@
       "filterable": 0,
       "jar": "./lib/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3"
     },
+{
+      "key": "csp_FeiMaoUC",
+      "name": "猫->⚡┃闪电┃优汐",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://1.95.79.193/"
+        ],
+        "url_key": "FeiMaoUC"
+      },
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Duopan",
+      "name": "猫->🖍︎┃蜡笔┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs"
+        ],
+        "url_key": "Duopan2"
+      },
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+{
+      "key": "潮流",
+      "name": "猫->🏜┃潮流┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "梦回",
+      "name": "猫->🏈┃梦回┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "星辉",
+      "name": "猫->🦢┃星辉┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "猫->✨️️┃流光┃影视",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "猫->🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+
+{
+      "key": "csp_Siren",
+      "name": "猫->🎉️┃私人┃影城",
+      "type": 3,
+      "api": "csp_Siren",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_XMUC",
+      "name": "猫->🍚┃小米┃UC",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://www.mucpan.cc",
+          "https://milvdou.fun",
+          "https://54271.fun"
+        ],
+        "url_key": "XMUC"
+      },
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Netfixtv",
+      "name": "猫->💌┃️至臻┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://xiaomi666.fun",
+          "https://xiaomiai.site",
+          "http://www.miqk.cc"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      },
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+
+{
+      "key": "csp_Lkdy",
+      "name": "猫->🏔️┃来看┃影视",
+      "type": 3,
+      "api": "csp_Lkdy",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "猫->☁️️┃云播┃影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Kanke",
+      "name": "猫->🛳️┃看客┃影视",
+      "type": 3,
+      "api": "csp_Kanke",
+      "ext": "http://www.guaziys.com",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Qiyou",
+      "name": "猫->🥝┃奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com/",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+
+{
+      "key": "csp_Fantuan",
+      "name": "猫->🍙┃饭团┃影视",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://www.fantuan.vip",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_Quanwk",
+      "name": "猫->👀┃全看┃影视",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_J",
+      "name": "猫->🌎┃饺子┃外剧",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "playerType": 2,
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "猫->🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us",
+      "jar": "./lib/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+    },
+
+
+
+
+
+
+
+
+
+
+
     {
       "key": "玩偶",
       "name": "饭->👽玩偶哥哥┃4K弹幕",
