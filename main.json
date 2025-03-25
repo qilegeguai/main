@@ -282,6 +282,202 @@
       "quickSearch": 1
     },
     {
+      "key": "nmys",
+      "name": "至尊红颜",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/5.jar;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
+    {
+      "key": "pgys",
+      "name": "苹果┃影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./lib/6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "shys",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/2.jar;md5;2"
+    },
+    {
+      "key": "gzys",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "jar": "./lib/2.jar;md5;2"
+    },
+    {
+      "key": "atys",
+      "name": "奥特┃影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 15,
+      "ext": "https://auete.pro/",
+      "jar": "./lib/6.jar;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "热播",
+      "name": "热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "caHR0cDovL3YucmJvdHYuY24=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "daHR0cDovL3YubGt1eXMuY24=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "剧评",
+      "name": "剧评┃App",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "木头",
+      "name": "木头┃App",
+      "type": 3,
+      "api": "csp_Shark",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "永夜",
+      "name": "永夜┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovLzExMC40MC42NC4yMjU6ODk0NXxHOGt6QjF2WHdRcDlaN21GfEc4a3pCMXZYd1FwOVo3bUZ8MTAw",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "星河",
+      "name": "星河┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 1,
+      "ext": "caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "油条",
+      "name": "油条┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "23ys",
+      "name": "二三┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "主角",
+      "name": "主角┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "时常",
+      "name": "时常┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "雨滴",
+      "name": "雨滴┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "现代",
+      "name": "现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "玉米",
+      "name": "玉米┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9keXl6dHZhcHBhcGlnb29kZ3guNjguZ3k6MTI2ODkvY2l3azI4dnUzOGlvOC9hcGl1cmwudHh0fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA=",
+      "jar": "./lib/4.jar"
+    },
+    {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJn
+    {
       "key": "🎤 演唱会 | JAR",
       "name": "🎤 演唱会 | JAR",
       "type": 3,
