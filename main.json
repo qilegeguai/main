@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_20250316.tms;md5;f9e295f3d7465da6461a913260bd0683",
+  "spider": "./custom_spider_20250322.tms;md5;f9e295f3d7465da6461a913260bd0683",
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
   "warningText": "夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "-更新日期～2025.03.23"
+        "sourceVersion": "-更新日期～2025.03.28"
       }
     },
 {
