@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "-更新日期～2025.04.22"
+        "sourceVersion": "-更新日期～2025.04.24"
       }
     },
 {
@@ -569,6 +569,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "🐍 外国剧 | PY",
+      "name": "🐍 外国剧 | PY",
+      "type": 3,
+      "api": "./lib/py_guowaiju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🐍 华数 | PY",
+      "name": "🐍 华数 | PY",
+      "type": 3,
+      "api": "./lib/hua.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1
     },
     {
       "key": "🍝 如意 | CMS",
