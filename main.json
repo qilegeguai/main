@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_20250516.tms;md5;f9e295f3d7465da6461a913260bd0683",
+  "spider": "./custom_spider_20250525.tms;md5;f9e295f3d7465da6461a913260bd0683",
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
   "warningText": "夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "-更新日期～2025.05.17"
+        "sourceVersion": "-更新日期～2025.05.31"
       }
     },
 {
@@ -37,25 +37,15 @@
             "searchable": 1,
             "changeable": 1
         },
-
-    {
-      "key": "📬️ 新片预告 | JAR",
-      "name": "📬️ 新片预告 | JAR",
+{
+      "key": "📣 大米星球 | JAR",
+      "name": "📣 大米星球 | JAR",
       "type": 3,
-      "api": "csp_Trailer",
+      "api": "csp_Fjxmjy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {}
-    },
-    {
-      "key": "📺 电视直播 | JAR",
-      "name": "📺 电视直播 | JAR",
-      "type": 3,
-      "api": "csp_Live2Vod",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/remote_live.json"
     },
     {
       "key": "📣 低端直连 | JAR",
@@ -164,6 +154,70 @@
         "jxApi": "CZBuvohwhcBaK3LIPEJHjUZQga+8TxyLiGQ2soqVyp4UltOk2eYMgo0RUxa9Z3WI",
         "prefix": "2rDS0IS/yYlt2zB+fKdnxX5y9fmkw6DziWs5UfrpxRA="
       }
+    },
+    {
+      "key": "🈵  演唱合集 | JX",
+      "name": "🈵  演唱合集 | JX",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/heji.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "🈵  戏曲大全 | JX",
+      "name": "🈵  戏曲大全 | JX",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xiqu.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "🈵  8K大全 | JX",
+      "name": "🈵  8K大全 | JX",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/8k.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "🈵  学习园地 | JX",
+      "name": "🈵  学习园地 | JX",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/study.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "🚛 移动直连 | DEX",
+      "name": "🚛 移动直连 | DEX",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "🚛 南瓜直连 | DEX",
