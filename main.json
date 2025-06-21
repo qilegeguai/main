@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider_20250525.tms;md5;f9e295f3d7465da6461a913260bd0683",
+  "spider": "./custom_spider_20250605.tms;md5;f9e295f3d7465da6461a913260bd0683",
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
   "warningText": "夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "-更新日期～2025.05.31"
+        "sourceVersion": "-更新日期～2025.06.21"
       }
     },
 {
@@ -153,6 +153,20 @@
         "cmsApis": "BB/wVps1wa1PrsQ2bsdzHTy6HPPN+fN29QaCIqqrzgs=",
         "jxApi": "CZBuvohwhcBaK3LIPEJHjUZQga+8TxyLiGQ2soqVyp4UltOk2eYMgo0RUxa9Z3WI",
         "prefix": "2rDS0IS/yYlt2zB+fKdnxX5y9fmkw6DziWs5UfrpxRA="
+      }
+    },
+{
+      "key": "🈵  解说合集 | JX",
+      "name": "🈵  解说合集 | JX",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/jieshuo.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
       }
     },
     {
