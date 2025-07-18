@@ -1,7 +1,7 @@
 {
   "spider": "./custom_spider_20250713.tms;md5;f9e295f3d7465da6461a913260bd0683",
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
-  "warningText": "夜泊金沙独家定制，请勿公开传播！]",
+  "warningText": "[夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
     {
       "name": "Govin",
