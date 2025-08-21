@@ -4,6 +4,68 @@
   "warningText": "[夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
     {
+			"name": "Best",
+			"type": 0,
+			"url": "http://be.is-best.net/i/8/5611948.txt",
+			"epg": "http://epg.51zmt.top:8000/e.xml",
+			"logo": "https://epg.112114.xyz/logo/{name}.png",
+			"timeout": 10
+		}, 
+  	    {
+			"name": "Guovin",
+			"type": 0,
+			"url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+			"epg": "http://epg.51zmt.top:8000/e.xml",
+			"logo": "https://epg.112114.xyz/logo/{name}.png",
+			"timeout": 10
+		},
+         {
+			"name": "Mursor",
+			"type": 0,
+			"url": "https://sub.ottiptv.cc/iptv.m3u",
+			"epg": "http://epg.51zmt.top:8000/e.xml",
+			"ua": "okHttp/Mod-1.0.1",
+			"timeout": 10,
+			"playerType": 2
+		}, 
+        {
+            "name": "港澳台",
+            "type": 0,
+            "url": "http://txt.kesug.com/users/hulanlu.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },	
+        {
+            "name": "sd-live",
+            "type": 0,
+            "url": "https://gitee.com/sd-live/zb/raw/master/mySJ",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },			
+		{
+			"name": "裤佬直播",
+			"type": 0,
+			"url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+			"playerType": 2,
+			"timeout": 10
+		},
+		{
+			"name": "范明明",
+			"type": 0,
+			"url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+			"playerType": 2,
+			"timeout": 10
+		},
+		{
+			"name": "ZBDS",
+			"type": 0,
+			"url": "https://live.zbds.org/tv/iptv4.txt",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://epg.iill.top/logo/{name}.png",
+			"timeout": 10,
+			"playerType": 2
+		},
+    {
       "name": "Govin",
       "type": 0,
       "url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
