@@ -88,7 +88,8 @@
       "ext": {
         "sourceType": 1,
         "sourceVersion": "更新日期～2025.10.03"
-      }
+      },
+ "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
 {
             "key": "豆瓣采集资源",
