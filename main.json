@@ -87,9 +87,9 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "更新日期～2025.12.27"
+        "sourceVersion": "更新日期～2026.1.28"
       },
- "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+ "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
 {
             "key": "豆瓣采集资源",
@@ -155,7 +155,7 @@
         "prefix": "Yvd9RzWDG2KNO2hfELQxQHaG5I5x4DRFWyJezOmwQIP7Vikq+Psu5Womw/m0rVuk",
         "danmu": ""
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵 醉挽清风 | 解析",
@@ -170,7 +170,7 @@
         "prefix": "yQemwLacBOL9i5k7nNNyn6Ajp7ci7d+J/yR4KHyM227TGrf3WiEz3lwzLL6Ew7UK",
         "danmu": "Xuuq7MRbO6OAjCXjQNK/X4HdV2ZIABiW2syArSvt9SD0yn9ZecqA5n7b2gQM5STkTwy3Z0URM3F8V2iNba31tM9jzHoBgYmS2PlEzI/nGL2MD/qP/3L43FunoJb60mxu"
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵 小满万全 | 解析",
@@ -186,7 +186,7 @@
         "prefix": "aKKG6Ixij3hB8wa0VvK8Yv8/cUiIhuf2KvoTntbT0UL8PKT/aI27Tv2CqIZh9XBK",
         "danmu": "Xuuq7MRbO6OAjCXjQNK/X4HdV2ZIABiW2syArSvt9SD0yn9ZecqA5n7b2gQM5STkTwy3Z0URM3F8V2iNba31tM9jzHoBgYmS2PlEzI/nGL2MD/qP/3L43FunoJb60mxu"
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵 瑞气盈门 | 解析",
@@ -201,7 +201,7 @@
         "prefix": "UPris27MuMWJyAl048qao/nd48tAp845xgreKMXD8HUrLqbgS1sq6WSTqhIT+2++",
         "danmu": "Xuuq7MRbO6OAjCXjQNK/X4HdV2ZIABiW2syArSvt9SD0yn9ZecqA5n7b2gQM5STkTwy3Z0URM3F8V2iNba31tM9jzHoBgYmS2PlEzI/nGL2MD/qP/3L43FunoJb60mxu"
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
 {
       "key": "🈵 酷月凝霜 | 解析",
@@ -216,7 +216,7 @@
         "prefix": "/YeDHeSZiIVOxRNz5bu/VfXmuiexgsQuWPZfoKlXqjB+Xq7j/gwXpnXHf/mMp+HP",
         "danmu": ""
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵 帧跃星河 | 解析",
@@ -231,7 +231,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  解说合集 | 解析",
@@ -246,7 +246,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  演唱合集 | 解析",
@@ -261,7 +261,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  戏曲大全 | 解析",
@@ -276,7 +276,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  8K大全 | 解析",
@@ -291,7 +291,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  学习园地 | 解析",
@@ -306,7 +306,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20250916.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
    
     {
