@@ -3,7 +3,29 @@
   "wallpaper": "https://api.xsot.cn/bing?jump=true",
   "warningText": "[夜泊金沙独家定制，请勿公开传播！]",
   "lives": [
+   {
+      "name": "feiyang",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/iptv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
     {
+      "name": "iptv-api",
+      "type": 0,
+      "url": "./lib/result.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "88KQ直播源",
+      "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+ {
 			"name": "Best",
 			"type": 0,
 			"url": "http://be.is-best.net/i/8/5611948.txt",
@@ -87,7 +109,7 @@
       "filterable": 1,
       "ext": {
         "sourceType": 1,
-        "sourceVersion": "更新日期～2026.1.28"
+        "sourceVersion": "更新日期～2026.03.05"
       },
  "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
