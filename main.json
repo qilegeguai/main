@@ -111,7 +111,7 @@
         "sourceType": 1,
         "sourceVersion": "更新日期～2026.03.16"
       },
- "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+ "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
 {
             "key": "豆瓣采集资源",
@@ -248,7 +248,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  解说合集 | 解析",
@@ -263,7 +263,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  演唱合集 | 解析",
@@ -278,7 +278,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  戏曲大全 | 解析",
@@ -293,7 +293,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  8K大全 | 解析",
@@ -308,7 +308,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
     {
       "key": "🈵  学习园地 | 解析",
@@ -323,7 +323,7 @@
         "type": "rect",
         "ratio": 1.333
       },
-      "jar": "./custom_spider_20251016.tms;md5;35899da982eba1a69207649cbbbb915e"
+      "jar": "./custom_spider_20260316.tms;md5;35899da982eba1a69207649cbbbb915e"
     },
    
     {
